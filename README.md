@@ -20,6 +20,7 @@
 
 
 # Feature 2 - Weather update at your location
+![image](https://user-images.githubusercontent.com/63898454/235319890-c8e3f127-cf86-4cbb-9938-1cfde9f87899.png)
 ![image](https://user-images.githubusercontent.com/63898454/235319562-e3ffda7c-c157-4730-ae92-26941f3c255d.png)
 
 

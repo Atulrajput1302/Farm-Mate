@@ -4,7 +4,7 @@
   ### Pull the image and run it on your system
 ```
 
-docker push atul1302/farm_mate:v1
+docker pull atul1302/farm_mate:v1
 
 ```
 

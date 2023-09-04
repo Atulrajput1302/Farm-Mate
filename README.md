@@ -1,5 +1,14 @@
 # Farm-Mate
 
+# Docker Image 
+  ### Pull the image and run it on your system
+```
+
+docker push atul1302/farm_mate:v1
+
+```
+
+
 ### Description
   * Detects disease of plants using image of their leaves.
   * Trained the model using RestNet50.
